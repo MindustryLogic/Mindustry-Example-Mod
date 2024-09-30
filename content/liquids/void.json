@@ -1,0 +1,9 @@
+{
+    "name": "Absolute Zero"
+    "color": "000000"
+    "heatCapacity": "999"
+    "flammability": "0"
+    "temperture": "0"
+    "viscosity": "0"
+    "explosiveness": "10"
+}

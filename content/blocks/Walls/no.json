@@ -1,0 +1,16 @@
+{
+    "name": "UNO",
+    "description": "UHHHH REVERSE",
+    "type": "DeflectorWall",
+    "health": "999999999",
+    "size": "1",
+    "hitTime": "999",
+    "maxDamageDeflect": "99999999999999999999999999999",
+    "placeSound": "sfx/placeBig",
+    "placePitchChange": false,
+    "requirements": [
+        "titanium/10000"
+    ],
+    "category": "defense",
+    "research": "duo"
+}

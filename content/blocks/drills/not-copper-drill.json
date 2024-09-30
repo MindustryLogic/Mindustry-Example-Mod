@@ -1,0 +1,29 @@
+{
+	"name": "Definally a copper drill",
+	"description": "This is 100% a normal drill trust me",
+	"type": "Drill",
+    "size": 3,
+    "health": 31415926,
+    "tier": 2147483647,
+    "drillTime": 0.1,
+    "hardnessDrillMultiplier": 0,
+    "liquidBoostIntensity": 2,
+    "canOverdrive": true,
+    "warmupSpeed": 0.5,
+    "drillEffect": "none",
+    "updateEffect": "none",
+    "rotateSpeed": 66.6,
+    "consumes": {
+        "liquid": {
+            "liquid": "water",
+            "amount": 1,
+            "booster": true,
+            "optional": true
+        }
+    },
+    "itemCapacity": 1000000,
+    "liquidCapacity": 10,
+    "requirements": [],
+    "category": "production",
+    "research": "duo"
+}

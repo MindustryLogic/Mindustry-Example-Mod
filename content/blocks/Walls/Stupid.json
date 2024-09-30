@@ -1,0 +1,14 @@
+{
+    "name": "COPPER WALL",
+    "description": "It's a wall",
+    "type": "Wall",
+    "health": 999999999,
+    "size": 1,
+    "placeSound": "sfx/placeBig",
+    "placePitchChange": false,
+    "requirements": [
+        "copper/100000"
+    ],
+    "category": "defense",
+    "research": "duo"
+}

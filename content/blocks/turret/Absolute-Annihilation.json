@@ -1,0 +1,47 @@
+{
+    "type": "ItemTurret",
+    "health": 666,
+    "size": 3,
+    "reload": 5,
+    "shake": 1000,
+    "range": 278000,
+    "rotateSpeed": 10,
+    "recoil": 2500,
+    "shootSound": "bigShot",
+    "shootCone": 90,
+	"minRange": 25,
+    "inaccuracy": 0,
+	"ammoPerShot": "60",
+	"maxAmmo": "600",
+    "shoot":{
+        "type": "ShootSpread",
+        "shots": "360"
+		"spread": "1"
+        },
+        "ammoTypes": {
+            "thorium": {
+                "frontColor": "ff0000",
+                "backColor": "ffffff",
+                "speed": 10,
+                "damage": 6666666,
+                "width": 120,
+                "height": 200,
+                "shootEffect": "shootSmall",
+                "smokeEffect": "shootSmallSmoke",
+                "lifetime": 300,
+                "hitEffect": "flakExplosion",
+                "splashDamage": 101010101,
+                "splashDamageRadius": 1618033,
+                "hitSound": "Hits/LeadHit",
+                "ammoMultiplier": 1
+            }
+        },
+    "category": "turret",
+    "research": "duo",
+    "requirements": [    
+        "copper/25600",
+        "lead/51200",
+        "titanium/3290",
+        "thorium/2700"
+    ]
+}

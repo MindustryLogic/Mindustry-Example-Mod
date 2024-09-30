@@ -1,0 +1,17 @@
+{
+    "type": "OverdriveProjector",
+    "health": 1,
+    "size": 1,
+    "range": 10000,
+    "hasPower": false,
+    "speedBoostPhase": 120,
+    "useTime": 1000,
+    "phaseRangeBoost": 0,
+    "speedBoost": 1000.0,
+    "consumes": {},
+    "requirements": [
+        "thorium/9999"
+    ],
+    "category": "effect",
+    "research": "duo"
+}

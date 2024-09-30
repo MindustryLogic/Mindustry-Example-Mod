@@ -1,0 +1,19 @@
+{
+    "name": "The final Battery"
+	"description": "The result of heating that 1 copper to 10 trillion degrees"
+	"type": "Battery",
+    "category": "power",
+    "buildVisibility": "shown",
+    "size": 1,
+    "health": 10000,
+    "emptyLightColor": "#000000",
+    "fullLightColor": "#ff3eee",
+    "consumes": {
+        "powerBuffered": 10000000000
+    },
+    "requirements": [
+		{ "item": "copper", "amount": 2}
+	],
+	"category": "power"
+    "research": "forshadow"
+}
